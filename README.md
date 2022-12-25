@@ -43,7 +43,7 @@ Since the value of age would create multiple distinct values to deal with in the
 
 ### Results derived from the dataset 
 
-After cleaning the data, we will begin to look at the dataset from multiple perspectives systematically by using Pivot table. Multiple pivot tables were created to better lay out the number of bikes each individual purchases by different perspective. Table below illustrates the number of bike purchases by marital status and income group. Click [here]() to jump into the excel file to view all.
+After cleaning the data, we will begin to look at the dataset from multiple perspectives systematically by using Pivot table. Multiple pivot tables were created to better lay out the number of bikes each individual purchases by different perspective. Table 1 below is a pivot table that illustrates the number of bike purchases by marital status. Click [here](https://github.com/aminbasiran/excel-projects/blob/main/Bike%20purchases.xlsx) to jump into the excel file to view cleaned data, pivot tables and dashboard.
 
 | Bike        | Column Labels |     |             |
 | ----------- | ------------- | --- | ----------- |
@@ -54,27 +54,9 @@ After cleaning the data, we will begin to look at the dataset from multiple pers
 
 Table 1. Bike puchases by marital status
 
-| Count of Purchased Bike | Column Labels |     |             |
-| ----------------------- | ------------- | --- | ----------- |
-| Row Labels              | No            | Yes | Grand Total |
-| RM10,000.00             | 46            | 30  | 76          |
-| RM20,000.00             | 45            | 33  | 78          |
-| RM30,000.00             | 83            | 57  | 140         |
-| RM40,000.00             | 65            | 94  | 159         |
-| RM50,000.00             | 20            | 20  | 40          |
-| RM60,000.00             | 84            | 82  | 166         |
-| RM70,000.00             | 59            | 66  | 125         |
-| RM80,000.00             | 58            | 36  | 94          |
-| RM90,000.00             | 15            | 25  | 40          |
-| RM100,000.00            | 19            | 11  | 30          |
-| RM110,000.00            | 8             | 8   | 16          |
-| RM120,000.00            | 8             | 11  | 19          |
-| RM130,000.00            | 17            | 15  | 32          |
-| RM150,000.00            | 1             | 3   | 4           |
-| RM160,000.00            |               | 3   | 3           |
-| RM170,000.00            | 3             | 1   | 4           |
-| Grand Total             | 531           | 495 | 1026        |
+Based on the outcomes from the pivot table generated in the excel file, a total of 236 married individuals have purchased a bike compared to a slighly higher number of 259 single individuals. A 9.74% difference between those 2 numbers. Meanwhile, a total of 531 individuals regardless of their marital status have decided not to purchase a bike. On the other hand, according to the next pivot table, it is evident that an individual who makes RM40,000 a year contributed the most bike purchases of 94 individuals followed by 82 individuals who makes RM60,000 a year while the lowest recorded of bike purchases came from a single individual making RM170,000 a year. 
 
-Table 2. Bike puchases by income group
+Next, an individual who makes commute less than a mile has contributed the highest number of bike purchases with a total of 207 individuals. Breaking down further into the table, it is observed that out of the 207 individuals, only 103 of them didn't own a single car. Conversely, only 33 individuals who needs to commute more than 10 miles have purchased a bike. 
+
 
 
